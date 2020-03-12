@@ -6,4 +6,4 @@ Some of PCB Designs during a robotics journey in college, There's more but i upl
 all of them deleoped using Eagle CAD.
 
 ### Open Source for Everyone Enjoy! :*
-![PCBs](https://i.imgur.com/JyJB1uJ.jpg)
+![PCBs](https://i.imgur.com/uPwKvEh.png)
